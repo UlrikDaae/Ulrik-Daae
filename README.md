@@ -1,23 +1,26 @@
-Hello! I'm Ulrik.
+## Hello, I'm Ulrik! 
+I'm a passionate and aspiring data analyst from Norway, currently working as a research assistant at the University of Oslo. Welcome to my GitHub!
 
 
 
-🥥 Me in a nutshell
+### 🥥  Me in a nutshell
   
-  I have a master's degree in special needs pedagogy, but got a love for science and data when I wrote my thesis. 
+- I have a master's degree in special needs pedagogy, but I got a love for data and research when I wrote my thesis. 
   
-  Started on a path to become a data analyst in the second half of 2022. 
+- Started on a path to become a data analyst in the second half of 2022. 
   
-  Currently work as a research assistant at the University of Oslo. 
+- Currently work as a research assistant at the University of Oslo. 
 
-🗂 My work
+
+### 🗂 My work
  
-  My portfolio
- 
-  My full projects
+- My portfolio
+  
+- My analyst projects
 
-- 📫 How to reach me: ...
 
-(https://www.linkedin.com/in/ulrik-daae/ "Twitter")
+### 📫 Get in touch with me
 
-(https://twitter.com/UlrikDaae "Twitter")
+- [LinkedIn](https://www.linkedin.com/in/ulrik-daae/)
+
+- [Twitter](https://twitter.com/UlrikDaae)
