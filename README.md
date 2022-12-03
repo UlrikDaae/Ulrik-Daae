@@ -14,9 +14,13 @@ I'm a passionate and aspiring data analyst from Norway, currently working as a r
 
 ### 🗂 My work
  
-- My portfolio
+- [My analyst projects](https://github.com/UlrikDaae/Analyst-Projects/blob/main/README.md)
+
+- My portfolio of data vizualisations with R
+
+- My portfolio of data vizualisations with Tableau. 
   
-- My analyst projects
+
 
 
 ### 📫 Get in touch with me
