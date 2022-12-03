@@ -3,7 +3,7 @@ I'm a passionate and aspiring data analyst from Norway, currently working as a r
 
 
 
-### 🥥  Me in a nutshell
+### 🥥  Me in a (coco)nut shell
   
 - I have a master's degree in special needs pedagogy in May 2022 with a grade A.
  
@@ -12,12 +12,12 @@ I'm a passionate and aspiring data analyst from Norway, currently working as a r
 - Currently employed as a research assistant at the University of Oslo. 
 
 ### ➕ What I'm working on now
-As an aspiring junior data analyst I am learning the fundamentals of data analysis. 
-  1. Excel and R programming are commonly used in an academic capacity at the University where I work, so these are my preliminary focus. 
-  
-    1.1. I do this by working with both TidyTuesday vizualisations, as well as a broader analyst project. 
+**Course:** I am working towards DataCamps Data Analyst Associate certification. Currently I am working through the R curriuclum, soon moving on to SQL. 
 
-  2. I am working towards a Data Analyst certification from DataCamp, which currently involves R programming, but will also in a large degree involve SQL. 
+2. I am working with the R-TidyTuesday datasets to get more practical data analysis experience. 
+
+3. Entry-level Tableau vizualisations. 
+
 
 
 ### 🗂 My work
