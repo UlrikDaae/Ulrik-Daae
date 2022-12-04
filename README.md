@@ -14,9 +14,9 @@ I'm a passionate and aspiring data analyst from Norway, currently working as a r
 ### ➕ What I'm working on now
 **Course:** I am working towards DataCamps Data Analyst Associate certification. Currently I am working through the R curriuclum, soon moving on to SQL. 
 
-2. I am working with the R-TidyTuesday datasets to get more practical data analysis experience. 
+**Portfolio:** I am working with the R-TidyTuesday datasets to get more practical data analysis experience. 
 
-3. Entry-level Tableau vizualisations. 
+**Skills and programs** Entry-level Tableau vizualisations. 
 
 
 
