@@ -21,7 +21,7 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 **Portfolio:** I am working with the R For Datascience's TidyTuesday datasets to get more practical data analysis experience, and to build a portfolio of analyses.
 
-**Skills and programs** Entry-level Tableau vizualisations. 
+**Skills** Entry-level Tableau vizualisations. 
 
 
 
