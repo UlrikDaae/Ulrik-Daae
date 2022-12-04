@@ -10,10 +10,11 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 - Currently employed as a research assistant at the University of Oslo. 
  
 - During my work with my Master's thesis I started to love the nuances and possibilities of data, the vizualisations you create with it, and the impact that can come from it. 
-- 
+
 - Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification, working towards DataCamps Data Analysis Professional certification. 
 
 
+### ☀️ My personality  
 
 
 ### ➕ What I'm working on now
