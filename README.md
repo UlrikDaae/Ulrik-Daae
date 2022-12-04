@@ -11,12 +11,15 @@ I'm a passionate and aspiring data analyst from Norway, currently working as a r
 
 - Currently employed as a research assistant at the University of Oslo. 
 
+
+
 ### ➕ What I'm working on now
 **Course:** I am working towards DataCamps Data Analyst Associate certification. Currently I am working through the R curriuclum, soon moving on to SQL. 
 
 **Portfolio:** I am working with the R-TidyTuesday datasets to get more practical data analysis experience. 
 
 **Skills and programs** Entry-level Tableau vizualisations. 
+
 
 
 
