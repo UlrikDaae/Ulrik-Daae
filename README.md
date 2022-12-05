@@ -15,8 +15,10 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 
 ### ☀️ My personality  
-- I am an outgoing person with loads of enthusiasm. 
-
+- I am positive and outgoing person with loads of enthusiasm. 
+- I'm a structured person with regards to my work and my life in general. 
+- I like solving big and small problems alike (_especially those that require finicky work in Excel or R_) both alone and in cooperation with other people. 
+ 
 
 ### ➕ What I'm working on now
 **Course:** I am working towards DataCamps Data Analyst Professional certification, currently with the R-curriculum. I'm also taking the SQL Basics for Data Science course by UC Davis in preparation for the SQL part of the DataCamp sertification. 
