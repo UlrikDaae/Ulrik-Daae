@@ -19,12 +19,13 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 
 ### ➕ What I'm working on now
-**Course:** I am working towards DataCamps Data Analyst Professional certification. Currently I am working through the R curriuclum, soon moving on to SQL. 
+**Course:** I am working towards DataCamps Data Analyst Professional certification, currently with the R-curriculum. I'm also taking the SQL Basics for Data Science course by UC Davis in preparation for the SQL part of the DataCamp sertification. 
 
-**Portfolio:** I am working with the R For Datascience's TidyTuesday datasets to get more practical data analysis experience, and to build a portfolio of analyses.
+**Portfolio:** I am working with the R For Datascience's TidyTuesday datasets to get more practical data analysis experience with R. _I'm working diligently to have some projects to showcase in the near future._
 
-**Skills** Entry-level Tableau vizualisations. 
-
+**Skills:** 
+* SQL: Creating functioning and effective SQL queries. 
+* R: Data manipulation in the form of cleaning and preparing datasets for data analysis. 
 
 
 
