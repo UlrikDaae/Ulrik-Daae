@@ -5,16 +5,17 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 ### 🥥  Me in a (coco)nut shell
   
-- I have a master's degree in special needs pedagogy in May 2022 with a grade A.
+- I have a master's degree in special needs pedagogy from the Western Norway University of Applied Sciences of May 2022, where I was one of three to get an A.
 
 - Currently employed as a research assistant at the University of Oslo. 
  
 - During my work with my Master's thesis I started to love the nuances and possibilities of data, the vizualisations you create with it, and the impact that can come from it. 
 
-- Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification, working towards DataCamps Data Analysis Professional certification. 
+- Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification. Since completing this in November, I have started working towards DataCamps Data Analysis Professional certification as well as completing the SQL for Data Sciene course by UC Davis. 
 
 
 ### ☀️ My personality  
+- I am an outgoing person with loads of enthusiasm. 
 
 
 ### ➕ What I'm working on now
