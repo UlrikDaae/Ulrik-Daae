@@ -29,13 +29,7 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 
 ### 🗂 My work
- 
-- [My analyst projects](https://github.com/UlrikDaae/Analyst-Projects/blob/main/README.md)
-
-- My portfolio of data vizualisations with R
-
-- My portfolio of data vizualisations with Tableau. 
-  
+ _This is a work in progress. Feel free to send me a message to have a look at some of my past work that hasn't been shared here (yet)._
 
 
 
