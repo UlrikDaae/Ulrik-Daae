@@ -11,8 +11,7 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
  
 - During my work with my Master's thesis I started to love the nuances and possibilities of data, the vizualisations you create with it, and the impact that can come from it. 
 
-- Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification. Since completing this in November, I have started working towards DataCamps Data Analysis Professional certification as well as completing the SQL for Data Sciene course by UC Davis. 
-
+- Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification. Since completing this in November, I have started another class in SQL, and finished multiple three individual courses in R. Now I'm working primarily with Python programming. 
 
 ### ☀️ My personality  
 - I am positive and outgoing person with loads of enthusiasm. 
@@ -21,9 +20,11 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
  
 
 ### ➕ What I'm working on now
-**Course:** I am working towards DataCamps Data Analyst Professional certification, currently with the R-curriculum. I'm also taking the SQL Basics for Data Science course by UC Davis in preparation for the SQL part of the DataCamp sertification. 
+**Course:** I'm  taking the SQL Basics for Data Science course by UC Davis, and the Crash Course on Python by Google. 
 
-**Portfolio:** I am working with the R For Datascience's TidyTuesday datasets to get more practical data analysis experience with R. _I'm working diligently to have some projects to showcase in the near future._
+**Practice** I solve Leetcode problems alongside my Python-course. 
+
+**Portfolio:** _I'm working diligently to have some projects to showcase in the near future._
 
 **Skills:** 
 * SQL: Creating functioning and effective SQL queries. 
