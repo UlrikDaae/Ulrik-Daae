@@ -21,8 +21,8 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 ### ➕ What I'm working on now
 **Skills:** 
-– Python: Automation.
-– SQL: Joins. 
+- Python: Automation.
+- SQL: Joins. 
 
 **Course:** I'm  taking the SQL Basics for Data Science course by UC Davis, and the Crash Course on Python by Google. 
 
