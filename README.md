@@ -26,7 +26,7 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 **Course:** I'm  taking the SQL Basics for Data Science course by UC Davis, and the Crash Course on Python by Google. 
 
-**Practice** I solve Leetcode problems alongside my Python-course. 
+**Practice** I'm solving Leetcode problems in both SLQ and Python. 
 
 **Portfolio:** _I'm working diligently to have some projects to showcase in the near future._
 
