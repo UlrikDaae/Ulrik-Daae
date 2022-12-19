@@ -34,7 +34,7 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 ### 🗂 My work
  _This is quite litteraly a work in progress. Feel free to send me a message to have a look at some of my past work that hasn't been shared here (yet)._
 
-However, I do have some [Excel-files] in my projects section that I've created this December for fun. They're fictitious, but quite realistic datasets that I have analysed. One is a trading journal and one is some personal expenses throughout the year 2022. 
+However, I do have some [Excel-files](https://github.com/UlrikDaae/Projects) in my projects section that I've created this December for fun. They're fictitious, but quite realistic datasets that I have analysed. One is a trading journal and one is some personal expenses throughout the year 2022. 
 
 
 ### 📫 Get in touch with me
