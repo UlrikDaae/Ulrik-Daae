@@ -3,9 +3,9 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
 
 
 
-### 🥥  Me in a (coco)nut shell
+### 🥥  Me in a nutshell
   
-- I have a master's degree in special needs pedagogy from the Western Norway University of Applied Sciences of May 2022, where I was one of three who got an A in our course. 
+- I have a master's degree in special needs pedagogy from the Western Norway University of Applied Sciences where I got an A. 
 
 - Currently employed as a research assistant at the University of Oslo. 
  
