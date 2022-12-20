@@ -1,5 +1,5 @@
 ## Hello there!
-My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, currently working as a research assistant at the University of Oslo. Welcome to my GitHub!
+My name is Ulrik and I'm a passionate data analyst from Norway, currently working as a research assistant at the University of Oslo. Welcome to my GitHub!
 
 
 
