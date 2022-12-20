@@ -7,7 +7,7 @@ My name is Ulrik and I'm a passionate (aspiring) data analyst from Norway, curre
   
 - I have a master's degree in special needs pedagogy from the Western Norway University of Applied Sciences where I got an A. 
 
-- Currently employed as a research assistant at the University of Oslo. 
+- I'm currently employed as a research assistant at the University of Oslo. 
  
 - During my work with my Master's thesis I started to love the nuances and possibilities of data, the vizualisations you create with it, and the impact that can come from it. 
 
