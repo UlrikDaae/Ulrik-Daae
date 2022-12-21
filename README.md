@@ -31,7 +31,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 **Course:** I'm  taking the SQL Basics for Data Science course by UC Davis, and the Crash Course on Python by Google. 
 
-**Practice** I'm solving Leetcode problems in SQL. I'm creating some [video tutorials](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ) on these solutions if anyone is interested. 
+**Practice** I'm solving Leetcode problems in SQL. I'm creating some [video tutorials on YouTube](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ) on these solutions if you're interested!
 
 
 ### 🗂 My work
