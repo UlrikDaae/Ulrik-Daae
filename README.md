@@ -1,6 +1,8 @@
 ## Hello there!
 My name is Ulrik and I'm a passionate data analyst from Norway, currently working as a research assistant at the University of Oslo. Welcome to my GitHub!
 
+### 🚀 QUICK RECAP
+- Portfolio: [Excel](https://github.com/UlrikDaae/Projects/tree/main/Excel), [SQL](https://github.com/UlrikDaae/Leetcode_Solutions/tree/main/SQL), [SQL Explanation videos.](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ)
 
 
 ### 🥥  Me in a nutshell
