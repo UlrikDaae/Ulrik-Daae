@@ -35,7 +35,8 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 
 ### 🗂 My work
-I do have some [Excel-files](https://github.com/UlrikDaae/Projects) in my projects section that I've created this December for fun. They're fictitious, but quite realistic datasets that I have analysed. One is a trading journal and one is some personal expenses throughout the year 2022. 
+- **EXCEL** I do have some [Excel-files](https://github.com/UlrikDaae/Projects) in my projects section that I've created this December for fun. They're fictitious, but quite realistic datasets that I have analysed. 
+- **SQL** You can find my LeetCode solutions with explanations [here](https://github.com/UlrikDaae/Leetcode_Solutions/tree/main/SQL)
 
  _This is a continuous work in progress and I aim to be sharing some projects in the next few months._
 
