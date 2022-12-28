@@ -38,6 +38,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 - **Excel:** I do have some [Excel-files](https://github.com/UlrikDaae/Projects/tree/main/Excel) in my projects section that I've created this December for fun. They're fictitious, but quite realistic datasets that I have analysed. _I currently have two projects I'm working on. One is a complete analysis of all fines for US financial institutions from 2000-22, and the other is an analysis of performance of Norwegian IPOs from 2020-22. **If you're interested in seeing some of this, check my Twittter or contact me through LinkedIn.**_
 
 - **SQL** You can find my LeetCode solutions with written explanations [here](https://github.com/UlrikDaae/Leetcode_Solutions/tree/main/SQL) and my [YouTube explanations here.](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ)
+– **Tableau** You can find my Tableau Vizzes [here](https://public.tableau.com/app/profile/ivar.ulrik.daae.bj.rndal). 
 
  _This is however, a continuous work in progress and I aim to be sharing some projects in the next few months._
 
