@@ -46,9 +46,11 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 
 ### 📫 Get in touch with me
-
+If you want to get in touch, then message me on LinkedIn. 
 - [LinkedIn](https://www.linkedin.com/in/ulrik-daae/)
 
+
+## 🦜 Other links. 
 - [Twitter](https://twitter.com/UlrikDaae)
 
 - [YouTube](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ)
