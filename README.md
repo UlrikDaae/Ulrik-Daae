@@ -16,7 +16,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 - Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification. Since completing this in November, I have started another class in SQL, and finished multiple three individual courses in R. Now I'm working primarily with Python programming. 
 
 ### ☀️ My personality  
-- I am positive and outgoing person with loads of enthusiasm. 
+- I am a positive and outgoing person with loads of enthusiasm. 
 
 - I'm a structured person with regards to my work and my life in general. 
 
@@ -31,7 +31,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 - Excel: Practice VLOOKUP, HLOOKUP, INDEX and MATCH to efficiently find specific data. 
 
-**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis, and the Crash Course on Python by Google. 
+**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis ([click here to see my solutions](https://github.com/UlrikDaae/Coursera-Solutions/tree/main/Learn%20SQL%20Basics%20for%20Data%20Science%20Specialization/SQL%20for%20Data%20Science), and the Google IT Automation with Python ([click here to see my solutions])(https://github.com/UlrikDaae/Coursera-Solutions/tree/main/Google%20IT%20Automation%20with%20Python/Crash%20Course%20on%20Python)
 
 
 ### 🗂 My work
