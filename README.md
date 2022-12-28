@@ -54,3 +54,5 @@ If you want to get in touch, then message me on LinkedIn.
 - [Twitter](https://twitter.com/UlrikDaae)
 
 - [YouTube](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ)
+
+- [Tableau Public](https://public.tableau.com/app/profile/ivar.ulrik.daae.bj.rndal)
