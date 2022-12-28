@@ -39,7 +39,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 - **SQL** You can find my LeetCode solutions with written explanations [here](https://github.com/UlrikDaae/Leetcode_Solutions/tree/main/SQL) and my [YouTube explanations here.](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ)
 
-– **Tableau** You can find my Tableau Vizzes [here](https://public.tableau.com/app/profile/ivar.ulrik.daae.bj.rndal). 
+- **Tableau** You can find my Tableau Vizzes [here](https://public.tableau.com/app/profile/ivar.ulrik.daae.bj.rndal). 
 
  _This is however, a continuous work in progress and I aim to be sharing some projects in the next few months._
 
