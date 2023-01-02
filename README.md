@@ -31,7 +31,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 - Excel: VBA.
 
-**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis, [(click here to see my solutions)](https://github.com/UlrikDaae/Coursera-Solutions/tree/main/Learn%20SQL%20Basics%20for%20Data%20Science%20Specialization/SQL%20for%20Data%20Science), and the Google IT Automation with Python [(click here to see my solutions).](https://github.com/UlrikDaae/Coursera-Solutions/tree/main/Google%20IT%20Automation%20with%20Python/Crash%20Course%20on%20Python)
+**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis, [(click here to see my solutions)](https://github.com/UlrikDaae/Coursera-Solutions/tree/main/Learn%20SQL%20Basics%20for%20Data%20Science%20Specialization/SQL%20for%20Data%20Science), and the Data Analysis with R specialization [[click here to see my solutions)](https://github.com/UlrikDaae/Coursera-Solutions/tree/main/Data%20Analysis%20with%20R%20Specialisation)
 
 
 ### 🗂 My work
