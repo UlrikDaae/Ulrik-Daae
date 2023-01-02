@@ -2,7 +2,7 @@
 My name is Ulrik and I'm a passionate data analyst from Norway, currently working as a research assistant at the University of Oslo. Welcome to my GitHub!
 
 ### 🚀 QUICK RECAP
-- Portfolio: [Excel](https://github.com/UlrikDaae/Projects/tree/main/Excel), [SQL](https://github.com/UlrikDaae/Leetcode_Solutions/tree/main/SQL), [SQL Explanation videos](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ), [Tableau.](https://public.tableau.com/app/profile/ivar.ulrik.daae.bj.rndal)
+- Portfolio: [Excel](https://github.com/UlrikDaae/Projects/tree/main/Excel), [R](https://github.com/UlrikDaae/Projects/tree/main/R), [SQL](https://github.com/UlrikDaae/Leetcode_Solutions/tree/main/SQL), [SQL Explanation videos](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ), [Tableau.](https://public.tableau.com/app/profile/ivar.ulrik.daae.bj.rndal)
 
 
 ### 🥥  Me in a nutshell
@@ -25,7 +25,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 ### ➕ What I'm working on now
 **Specific skills I'm working on:** 
-- Python: Basic automation.
+- R: Modelling.
 
 - SQL: Joins and subqueries. 
 
@@ -36,6 +36,8 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 ### 🗂 My work
 - **Excel:** You can find my Excel-projects [here](https://github.com/UlrikDaae/Projects/tree/main/Excel).
+
+- **R:** You can find my R-projects [here](https://github.com/UlrikDaae/Projects/tree/main/R)
 
 - **SQL** You can find my LeetCode solutions with written explanations [here](https://github.com/UlrikDaae/Leetcode_Solutions/tree/main/SQL) and my [YouTube explanations here.](https://www.youtube.com/channel/UC1VJJHJPCkeOqn01ES3qwGQ)
 
