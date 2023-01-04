@@ -27,7 +27,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 - Excel: VBA.
 
-**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis  and the Data Analysis with R Specialization.
+**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis  and the Data Analysis with R Specialization by Duke University.
 
 
 ### 🗂 My work
