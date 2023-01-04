@@ -9,12 +9,12 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
  
 - During my work with my Master's thesis I started to love the nuances and possibilities of data, the vizualisations you create with it, and the impact that can come from it. 
 
-- Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification. Since completing this in November, I have started another class in SQL, and finished multiple three individual courses in R. Now I'm working primarily with Python programming. 
+- Because of this newfound passion I changed my trajectory towards working with data analysis in the second half of 2022 with a Google Data Analyst certification. Since completing this in November I have started multiple other classes, working primarily with SQL and R.
 
 ### ☀️ My personality  
 - I am a positive and outgoing person with loads of enthusiasm. 
 
-- I'm a structured person with regards to my work and my life in general. 
+- I'm structured and systematic. 
 
 - I like solving big and small problems alike (_especially those that require finicky work in Excel or R_) both alone and in cooperation with other people. 
  
