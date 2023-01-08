@@ -43,7 +43,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 Google Data Analytics Certificate, [click here](https://www.credly.com/earner/earned/badge/509dad12-26e3-4292-b37f-737e50581052)
 
 
-## 📫 Other links. 
+### 📫 Other links. 
 - [LinkedIn](https://www.linkedin.com/in/ulrik-daae/)
 
 
