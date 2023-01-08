@@ -40,7 +40,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 **Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis  and the Data Analysis with R Specialization by Duke University.
 
 ### 📑 My Certifications
-Google Data Analytics Certificate – bit.ly/Ulriks-Data-Analyst-Course
+Google Data Analytics Certificate, [click here](bit.ly/Ulriks-Data-Analyst-Course)
 
 ### ✋ Get in touch with me
 If you want to get in touch, then message me on LinkedIn. 
