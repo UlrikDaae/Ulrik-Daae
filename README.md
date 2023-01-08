@@ -31,7 +31,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 ### ➕ What I'm working on now
 **Specific skills I'm working on:** 
-- R: Improved data visualizations.
+- R: Statistics and financial calculations, e.g. credit risk analysis. 
 
 - SQL: Joins and subqueries. 
 
