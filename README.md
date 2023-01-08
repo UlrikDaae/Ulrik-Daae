@@ -18,18 +18,6 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 - I like solving big and small problems alike (_especially those that require finicky work in Excel or R_) both alone and in cooperation with other people. 
  
-
-### ➕ What I'm working on now
-**Specific skills I'm working on:** 
-- R: Improved data visualizations.
-
-- SQL: Joins and subqueries. 
-
-- Excel: VBA.
-
-**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis  and the Data Analysis with R Specialization by Duke University.
-
-
 ### 🗂 My work
 - **Excel:** You can find my Excel-projects [here](https://github.com/UlrikDaae/Projects/tree/main/Excel).
 
@@ -41,7 +29,18 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
  _This is however, a continuous work in progress and I aim to be sharing some projects in the next few months._
 
+### ➕ What I'm working on now
+**Specific skills I'm working on:** 
+- R: Improved data visualizations.
 
+- SQL: Joins and subqueries. 
+
+- Excel: VBA.
+
+**Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis  and the Data Analysis with R Specialization by Duke University.
+
+### 📑 My Certifications
+Google Data Analytics Certificate – bit.ly/Ulriks-Data-Analyst-Course
 
 ### ✋ Get in touch with me
 If you want to get in touch, then message me on LinkedIn. 
