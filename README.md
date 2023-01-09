@@ -40,8 +40,8 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 **Courses I'm taking:** I'm  taking the SQL Basics for Data Science course by UC Davis  and the Data Analysis with R Specialization by Duke University.
 
 ### 📑 My Certifications
-Google Data Analytics Certificate, [click here](https://www.credly.com/earner/earned/badge/509dad12-26e3-4292-b37f-737e50581052)
-
+[Google Data Analytics Certificate](https://www.credly.com/earner/earned/badge/509dad12-26e3-4292-b37f-737e50581052)
+[Credit Risk Management: Frameworksand Strategies](https://www.coursera.org/account/accomplishments/certificate/39PZGWXZWMYS)
 
 ### 📫 Other links. 
 - [LinkedIn](https://www.linkedin.com/in/ulrik-daae/)
