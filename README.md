@@ -41,6 +41,7 @@ My name is Ulrik and I'm a passionate data analyst from Norway, currently workin
 
 ### 📑 My Certifications
 [Google Data Analytics Certificate](https://www.credly.com/earner/earned/badge/509dad12-26e3-4292-b37f-737e50581052)
+
 [Credit Risk Management: Frameworksand Strategies](https://www.coursera.org/account/accomplishments/certificate/39PZGWXZWMYS)
 
 ### 📫 Other links. 
